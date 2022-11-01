@@ -1,4 +1,2 @@
 # SpringBootProje
-
-ct
 SpringBootProject
