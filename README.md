@@ -14,3 +14,5 @@ mysql
 jsp
 
 jstl
+
+AJAX
