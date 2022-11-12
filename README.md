@@ -16,3 +16,5 @@ jsp
 jstl
 
 AJAX
+
+jQuery
