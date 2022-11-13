@@ -18,3 +18,5 @@ jstl
 AJAX
 
 jQuery
+
+other than
