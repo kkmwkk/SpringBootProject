@@ -19,4 +19,4 @@ AJAX
 
 jQuery
 
-other than
+other than yey
